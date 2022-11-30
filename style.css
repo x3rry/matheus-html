@@ -1,8 +1,15 @@
+    
+
+
+header
     p{
 
       text-align: center;
     }
     h2{
 
-      text-align: center;color: hotpink;
+      color: darkcyan;text-align: center;
+}
+strong{
+      color: hotpink;
     }
