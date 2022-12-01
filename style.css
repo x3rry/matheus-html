@@ -1,7 +1,13 @@
     
 
 
-header
+header{
+background: lightsalmon;
+}
+
+nav li{
+display: inline;
+}
     p{
 
       text-align: center;
