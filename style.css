@@ -2,11 +2,11 @@
 
 
 header{
-background: lightsalmon;
+background: lightgreen;
 }
 
 nav li{
-display: inline;
+display: inline; 
 }
     p{
 
@@ -14,8 +14,8 @@ display: inline;
     }
     h2{
 
-      color: darkcyan;text-align: center;
+      color: darkseagreen;text-align: center;
 }
 strong{
-      color: hotpink;
+      color: darkseagreen;
     }
